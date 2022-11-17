@@ -6,7 +6,10 @@ if you have Docker installed, you can run the experiments contained within this 
 You wil need to run the notebooks in the "dataset-construction" sub-folder before the notebooks that depend onthose datasets. Note that the results of each experiment are saved to disk to prevent the need to re-execute theexperiments when re-viewing an experiment's results.
 
 **Running Tests**
+
 make run-tests
 Tests can also be run repeatedly from a Clojure REPL:
+
 1. lein repl
+
 2.(use 'midje.repl)
