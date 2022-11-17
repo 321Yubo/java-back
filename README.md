@@ -9,7 +9,6 @@ You wil need to run the notebooks in the "dataset-construction" sub-folder befor
 
 make run-tests
 Tests can also be run repeatedly from a Clojure REPL:
-
 1. lein repl
 
 2.(use 'midje.repl)
