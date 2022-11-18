@@ -45,8 +45,10 @@ ppdsp-0.1.0-SNAPSHOT-standalone.jar
    
 4. Start web service
 
- ```
+
        Java -jar  demo-0.0.1-SNAPSHOT.jar
-        ```
+
         
- Run idea
+idea run
+
+SpringBootDemoApplication
