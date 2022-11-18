@@ -17,7 +17,7 @@ or
 
 2、In the idea
 
-Click Tasks â€" uberjar
+Click Tasks => uberjar
 
 After execution:
 
